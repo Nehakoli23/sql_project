@@ -1,23 +1,24 @@
 ### ***:beginner: Inventory System***
 The aim of this project is to create an inventory system.
 
-_:black_nib:  inventory system has four basic elements_ \
-products, \
-purchases, \
-suppliers,\
-orders
+_:black_nib:  inventory system has four basic elements_ 
+- products, 
+- purchases, 
+- suppliers,
+- orders
 
-_:page_with_curl: In this SQL Project I have used_ \
-Constraints, Group by statement
+_:page_with_curl: In this SQL Project I have used_ 
+- Constraints,
+- Group by statement
 
-_and various functions such as_ \
-Math Functions,\
-aggregation functions,\
-date functions.
+_and various functions such as_ 
+- Math Functions,
+- aggregation functions,
+- date functions.
 
-_joins such as_ \
-Inner join,\
-Left join,\
-Right join,\
-Cross Join
+_joins such as_ 
+- Inner join,
+- Left join,
+- Right join,
+- Cross Join
 
