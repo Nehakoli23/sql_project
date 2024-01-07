@@ -7,6 +7,9 @@ _:black_nib:  **inventory system has four basic elements**_
 - suppliers,
 - orders
 
+
+![link](https://cdn-media-1.freecodecamp.org/images/ZH5FJWHyUxVNeNFNMqOKPwde7lqBS5Lwvtkp)
+
   
 :mushroom:**Tool :-** MySql Workbench
 
@@ -26,4 +29,5 @@ _**joins** such as_
 - Left join,
 - Right join,
 - Cross Join
+
 
